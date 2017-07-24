@@ -1,1 +1,5 @@
 exportPattern("^[[:alpha:]]+")
+export(`%if%`)
+export(`%else%`)
+export(`%elif%`)
+export(`%then%`)
